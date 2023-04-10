@@ -1,0 +1,16 @@
+HELP.md
+build/
+!**/src/main/**
+!**/src/test/**
+mvnw.cmd
+mvnw
+.mvn
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+target/
